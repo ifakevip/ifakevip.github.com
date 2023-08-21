@@ -1,0 +1,37 @@
+Origin: Autolead
+Label: Autolead
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Autolead
+
+Origin: GetVer
+Label: GetVer
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: GetVer
+
+Origin: IPA Support
+Label: IPA Support
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: IPA Support
+
+
+Label: 12ACT
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 12ACT
+
+

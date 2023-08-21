@@ -1,0 +1,53 @@
+Package: Autolead
+Name: Autolead
+Version: 0.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.autolead.antran.deb
+Size: 451452
+MD5sum: 4a60b11a6166a0441f915f493034fa10
+
+
+Package: GetVer
+Name: GetVer
+Version: 0.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.anhookgmail.deb
+Size: 7824
+MD5sum: 12dab31774dc548ba017fc9615dd3079
+
+Package: IPA
+Name: IPA Support
+Version: 1.0
+Maintainer: An Tran
+Author: An Tran
+Section: Utilities
+Archtecture: iphone-arm
+Filename: ./debs/com.IPA.deb
+Size: 78206
+MD5sum: 0ad79ce42689c31a0552b69870edeec1
+
+
+
+
+Package: 12Act
+Name: 12ACT
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: System
+Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, Sudo, com.rbt.useragentchanger, jetslammed, network-cmds
+Filename: ./debs/com.12act.deb
+Size: 2294
+MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
