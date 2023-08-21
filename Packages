@@ -22,8 +22,8 @@ Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
 Filename: ./debs/com.anhookgmail.deb
-Size: 7824
-MD5sum: 12dab31774dc548ba017fc9615dd3079
+Size: 7846
+MD5sum: ba9aacec4bb4372b99abac30c8b6750b
 
 Package: IPA
 Name: IPA Support
