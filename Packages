@@ -12,8 +12,8 @@ Size: 451452
 MD5sum: 4a60b11a6166a0441f915f493034fa10
 
 
-Package: GetVer
-Name: GetVer
+Package: Getver
+Name: Getver
 Version: 0.9
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -21,7 +21,7 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
-Filename: ./debs/com.anhookgmail.deb
+Filename: ./debs/com.getver.deb
 Size: 7846
 MD5sum: ba9aacec4bb4372b99abac30c8b6750b
 
