@@ -14,7 +14,7 @@ MD5sum: 4a60b11a6166a0441f915f493034fa10
 
 Package: Getver
 Name: Getver
-Version: 0.9
+Version: 1.2
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
